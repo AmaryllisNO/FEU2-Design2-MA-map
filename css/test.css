@@ -30,6 +30,10 @@ body {
     opacity: 0;
 }
 
+.route-hovered {
+    z-index: 999;
+}
+
 .popup-open {
     opacity: 100;
     transition: 0.2s;
